@@ -10,6 +10,11 @@
 
 #### New Features
 
+### 5.0.2
+
+#### Improvements
+* Fix #2757: add `storage` and `served` to `Version` annotation
+
 ### 5.0.1 (2021-01-27)
 
 #### Bugs
